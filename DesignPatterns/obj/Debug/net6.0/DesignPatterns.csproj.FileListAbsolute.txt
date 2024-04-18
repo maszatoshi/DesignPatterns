@@ -1,0 +1,17 @@
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Stuff\Projektek\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CopyComplete

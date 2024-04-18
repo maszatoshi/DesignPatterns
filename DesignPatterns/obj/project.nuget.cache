@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVF5UGlIodjV4QFHwc0XQoCBbOvI/4S6Cu+g5UNt920WRnC3ezMYs53dqy2oeFnqXsbjiIjoSmdaTAdhKZ0jlw==",
+  "success": true,
+  "projectFilePath": "C:\\Stuff\\Projektek\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masza\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
